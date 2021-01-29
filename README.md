@@ -25,7 +25,7 @@ The bugtracker is an instrument of the devs. As a player, you may report problem
 Use the relevant keywords and spell them correctly.
 This is vital, as it allows both our managers to easily collate and deal with duplicate reports, and other players to effectively search for duplicate issues. Use ability, Map , location, character, multiplayer,UI and when needed to aid with this.
 
-Any issue that you post must preferably be adressed in english, but french can be used in a certain limit.
+Any issue that you post must preferably be adressed in english, but french can be used in a certain limit. We do accept any proposition from any player, but remeber that they are PROPOSITIONS and that the staff have the final word. Please label it as a "SUGGESTION" in the ticket name!
 
 One issue per ticket
 Only report one issue per ticket as multiple issues within one ticket is harder to track and harder to address.
